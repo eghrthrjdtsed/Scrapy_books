@@ -44,6 +44,4 @@ scrapy crawl books -o books.json
 
 Автор: [Сергей Гуков](https://github.com/eghrthrjdtsed)
 
-## Лицензия
 
-Этот проект лицензируется под [Лицензией MIT](LICENSE).
